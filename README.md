@@ -1,3 +1,3 @@
-# Inages
+# Images
 
 Image/photo/music files
